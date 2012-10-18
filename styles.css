@@ -36,4 +36,6 @@ td, th { padding: 6px; margin: 0px; }
 
 #footer { /* your footer container styles */
     clear: both;
+    margin-top: 75px;
+    font-size:small;
 }
